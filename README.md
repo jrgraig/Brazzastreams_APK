@@ -3,4 +3,4 @@ Brazzastreams is an application specially designed for Android systems that allo
 
 
 If you have Android phone you can downlaod application : Brazzastreams.rar
-If you don't have Android Phone, Go to the website : brazzastreams.onrender.com
+If you don't have Android Phone, Go to the website : https://brazzastreams.onrender.com
